@@ -1,6 +1,6 @@
 ---
 name: to-issues
-description: Break a plan, spec, or PRD into independently-grabbable issues on the project issue tracker using tracer-bullet vertical slices.
+description: 使用曳光弹垂直切片方法，将计划、规格或 PRD 拆分为项目 issue tracker 上可独立领取的 issue。
 disable-model-invocation: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: decision-mapping
-description: Turn a loose idea into a sequenced map of investigation tickets, then drive them to resolution one at a time.
+description: 将松散想法转为有序的调查 ticket 地图，然后逐一推动解决。
 disable-model-invocation: true
 ---
 

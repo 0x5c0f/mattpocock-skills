@@ -1,6 +1,6 @@
 ---
 name: design-an-interface
-description: Generate multiple radically different interface designs for a module using parallel sub-agents. Use when user wants to design an API, explore interface options, compare module shapes, or mentions "design it twice".
+description: 使用并行子 agent 为模块生成多个截然不同的接口设计。当用户想要设计 API、探索接口选项或比较模块形态时使用。
 ---
 
 # Design an Interface

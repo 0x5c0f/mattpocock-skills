@@ -1,6 +1,6 @@
 ---
 name: obsidian-vault
-description: Search, create, and manage notes in the Obsidian vault with wikilinks and index notes. Use when user wants to find, create, or organize notes in Obsidian.
+description: 使用 wikilinks 和索引笔记在 Obsidian vault 中搜索、创建和管理笔记。当用户想要在 Obsidian 中查找、创建或组织笔记时使用。
 ---
 
 # Obsidian Vault

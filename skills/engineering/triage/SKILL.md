@@ -1,6 +1,6 @@
 ---
 name: triage
-description: Move issues and external PRs through a state machine of triage roles — categorise, verify, grill if needed, and write agent-ready briefs.
+description: 将 issue 和外部 PR 通过分类角色状态机——分类、验证、必要时深度访谈，编写 agent 就绪的简报。
 disable-model-invocation: true
 ---
 
